@@ -1,5 +1,6 @@
 Ciao a tutti, I'm Gaetano! 👋 
 
+- :computer: PhD student in Computer Science and Mathematics
 - :book: Data Science student at Università degli Studi di Bari
 - :mortar_board: Graduated in Computer Science
 - :basketball: Basketball referee
