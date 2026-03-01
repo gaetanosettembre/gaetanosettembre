@@ -1,6 +1,6 @@
 Ciao a tutti, I'm Gaetano! 👋 
 
-- :computer: PhD Candidate in Computer Science and Mathematics @ University of Bari Aldo Moro
+- :computer: PhD in Computer Science and Mathematics @ University of Bari Aldo Moro
 - :book: Graduated in Data Science
 - :mortar_board: Graduated in Computer Science
 - :basketball: Basketball referee
