@@ -34,5 +34,5 @@ My interests include:
 ## ⚡ Tech Stack
 
 ```text
-Python • PyTorch • TensorFlow • Scikit-Learn • CUDA • HPC
-Remote Sensing • Computer Vision • Linux • Docker • Git
+Python • PyTorch • MATLAB • Scikit-Learn • CUDA • HPC • Remote Sensing •
+Computer Vision • Linux • Docker • Git • QGIS
