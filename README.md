@@ -1,6 +1,6 @@
 # Ciao a tutti, I'm Gaetano! 👋 
 
-- :rocket: Sensor Systems abd AI/ML Engineer @ Leonardo Space Divison
+- :rocket: Sensor Systems and AI/ML Engineer @ Leonardo Space Divison
 - :computer: PhD in Computer Science and Mathematics @ University of Bari Aldo Moro
 - :mortar_board: Graduated in Data Science (MSc) and Computer Science (BSc)
 - :basketball: Basketball referee
