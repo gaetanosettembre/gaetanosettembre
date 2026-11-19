@@ -1,6 +1,6 @@
 # Ciao a tutti, I'm Gaetano! 👋 
 
-- :rocket: AI/ML Engineer @ TMC Italia SpA at Leonardo Space Divison
+- :rocket: Sensor Systems abd AI/ML Engineer @ Leonardo Space Divison
 - :computer: PhD in Computer Science and Mathematics @ University of Bari Aldo Moro
 - :mortar_board: Graduated in Data Science (MSc) and Computer Science (BSc)
 - :basketball: Basketball referee
@@ -15,7 +15,7 @@ My interests include:
 
 - Artificial Intelligence & Machine Learning
 - Deep Learning for Remote Sensing
-- Computer Vision
+- Computer Vision abd Space Image Processing
 - High Performance Computing (HPC)
 - Scientific Computing
 - Space Technologies
@@ -34,5 +34,4 @@ My interests include:
 ## ⚡ Tech Stack
 
 ```text
-Python • PyTorch • MATLAB • Scikit-Learn • CUDA • HPC • Remote Sensing •
-Computer Vision • Linux • Docker • Git • QGIS
+Python • PyTorch • MATLAB • Scikit-Learn • CUDA • HPC • Remote Sensing • Computer Vision • Linux • Docker • Git • QGIS
